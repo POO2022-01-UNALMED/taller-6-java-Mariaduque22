@@ -10,7 +10,7 @@ public class Vehiculo {
 	private String nombre;
 	private int precio;
 	
-	//los voy a meter aquí
+	
 	static int cantidadVehiculos;
 	static int cantidadCamionetas;
 	static int cantidadAutomoviles;
